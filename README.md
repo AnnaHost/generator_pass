@@ -1,3 +1,2 @@
-# generator_pass
-Простой генератор пароля
+# Простой генератор пароля
 Ссылка на github page: https://annahost.github.io/generator_pass/
